@@ -1,4 +1,4 @@
-# CUPZYY
+# cupzyy
 I am a self taught developer from Norway. I make stuff I think is cool. I love solving non-trivial technical problems.
 
 ##  🔭 Cool things I have made:
