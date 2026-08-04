@@ -1,5 +1,5 @@
 # cupzyy
-I am a self taught developer from Norway. I love solving non-trivial technical problems.
+I am a self taught developer from Norway. I love solving technical problems.
 
 ##  🔭 Cool things I have made:
 - [A solver for NRK's "Former"](https://github.com/cupzyy/former-solver): A C++ application solving NRK's game: "Former" using the Monte Carlo tree search (MCTS) algorithm. This was my first C++-project.
